@@ -2,3 +2,5 @@
 # Expose Calculator at package level
 from .core import Calculator
 __all__ = ["Calculator"]
+
+# self.root.mainloop()

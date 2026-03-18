@@ -115,5 +115,7 @@ Edge cases: Try 1/0 (should raise ValueError), invalid names, empty strings.
 Contributing
 Fork the repo, create a branch (git checkout -b feature/new-op), add changes, commit, and PR. Follow PEP 8 and add docstrings/tests.
 
+
+
 License
 MIT License – free to use, modify, and distribute.
